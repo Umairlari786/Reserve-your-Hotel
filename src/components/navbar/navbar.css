@@ -1,0 +1,47 @@
+.navbar{
+    height: 100px;
+    width: 99vw;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    /* position: static; */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+    
+}
+
+/* .container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border: 2px solid blue;
+} */
+.logo{
+    margin-top: 22px;
+    padding-left: 20px;
+
+}
+/* .navItem{
+    margin-top: 12px;
+    margin-bottom: 10px;
+    justify-content: space-around;
+    
+} */
+.btn1{
+    margin-top: 15px;
+    margin-left: 50%;
+    margin-right: 20px;
+    border-radius: 20px;
+    height:50%;
+    width: 100px;
+
+}
+.btn2{
+    margin-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 20px;
+    height:50%;
+    width: 100px;
+}
